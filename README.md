@@ -1,3 +1,3 @@
 # clean-architecture-scaffold
 
-![image](https://user-images.githubusercontent.com/181991/78530755-3531d900-781f-11ea-9ff8-8f82ddc55c8d.png)
+<img width="757" alt="Screenshot 2020-04-06 at 16 12 57" src="https://user-images.githubusercontent.com/181991/78532067-8ba01700-7821-11ea-8b5c-fdc6526a6172.png">
